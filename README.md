@@ -1,4 +1,4 @@
-**Coffee Shop Sales Analytics**
+#Coffee Shop Sales Analytics
 
 This project focuses on analyzing transactional data from a coffee shop to uncover sales trends, customer preferences, and performance patterns. Leveraging data analytics and visualization techniques, the project aims to generate actionable insights to support business decision-making.
 

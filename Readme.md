@@ -14,6 +14,7 @@ Analyze customer payment preferences
 Evaluate monthly and daily sales trends
 
 **Dataset Overview**
+
 The dataset consists of real-time transaction records from a coffee shop, including:
 Product Category and Item Line
 
@@ -24,6 +25,7 @@ Sales Amount
 Payment Method
 
 The data provides valuable insights into consumer behavior and store performance.
+
 
 **Methodology**
 
@@ -65,6 +67,7 @@ Preferred payment methods
 
 Revenue distribution across different time frames
 
+
 **Key Insights**
 
 **Peak Hours**: Highest sales volume observed during morning and late afternoon hours
@@ -77,6 +80,7 @@ Revenue distribution across different time frames
 
 These insights can assist in strategic decisions related to inventory planning, staffing, and promotional activities.
 
+
 **Technologies Used**
 
 Python
@@ -88,6 +92,7 @@ NumPy
 Matplotlib
 
 Seaborn
+
 
 **Conclusion**
 

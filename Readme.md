@@ -68,12 +68,13 @@ Sales heatmaps across different time frames
 
 **Key Insights**
 
-**Insight**                         	       **Description**
+Peak Hours :- Sales spike in the morning (8–11 AM) and late afternoon (4–6 PM)
 
-Peak Hours:- 	                  Sales spike in the morning (8–11 AM) and late afternoon (4–6 PM)
-Top Products:- 	                  Certain beverage and snack items consistently outperform others
-Payment Preferences:-	          Card payments are the most preferred method by customers
-Monthly Trends :-        	  Significant fluctuations suggest possible seasonal trends
+Top Products :- Certain beverage and snack items consistently outperform others
+
+Payment Preferences :- Card payments are the most preferred method by customers
+
+Monthly Trends :- Significant fluctuations suggest possible seasonal trends
 
 These findings can guide decisions in inventory management, staff scheduling, and marketing strategies.
 

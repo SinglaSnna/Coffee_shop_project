@@ -26,7 +26,6 @@ Payment Method
 
 The data provides valuable insights into consumer behavior and store performance.
 
-
 **Methodology**
 
 The project was executed in the following steps:
@@ -67,7 +66,6 @@ Preferred payment methods
 
 Revenue distribution across different time frames
 
-
 **Key Insights**
 
 **Peak Hours**: Highest sales volume observed during morning and late afternoon hours
@@ -80,7 +78,6 @@ Revenue distribution across different time frames
 
 These insights can assist in strategic decisions related to inventory planning, staffing, and promotional activities.
 
-
 **Technologies Used**
 
 Python
@@ -92,7 +89,6 @@ NumPy
 Matplotlib
 
 Seaborn
-
 
 **Conclusion**
 
